@@ -1,10 +1,55 @@
-# 👋 Bonjour,
+# 👋 Hi, I'm **Sandrine MANGUY**
 
 ## 🔭 *Who am I?* 
-*I'm **Sandrine MANGUY**. I am a **UXdesigner** and a **Webdeveloper**.*  
+I am a **UXdesigner** and a **Webdeveloper**.  
+
+### Which are my soft skills ?
+* adaptability & agility
+* autonomy & decision making
+* diplomacy & pedagogy
+* analytical mind
+* organization and rigor
+* collaborative work
+
+
+### Which are my hard skills?
+#### Uxdesign:
+* Design Thinking, UX Design, Atomic Design, Material Design
+* Design apps
+* Illustration
+* Audit
+* Analyze data and take decisions
+* Softwares: Figma, Adobe CC (XD, Photoshop, Illustrator, Indesign), The Gimp, Inkscape, Scribus
+
+#### Development:
+* HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap, JavaScript (+ jQuery, d3, React, Redux, Vue), *PHP (+ Symfony)*
+* MVC, POO, SOLID & Design Patterns
+* Git & Github
+* Code from Mock-up
+* Responsive Web Design
+* SEO
+* Accessibility
+* Data vizualisation
+* API Rest
+* Node.js, Express & MongoDB
+* MAMP & phpMyAdmin
+* MySql Database: SQL Power Architect, SQuirrel SQL
+* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai
+* DDD & UML
+* EDI: Visual Studio Code
+* CMS: Wordpress & elementor
+
+#### Transversal skills:
+* Technical specifications
+* Technical documentation
+* Project management and UX mapping
+* Update knowledges
+* Teaching apprentices, students, colleagues in France & foreign countries
+* Softwares: Microsoft Office, Libre Office, PDFSam
+* Foreign languages : English (C1), Italian (B2), Spanish
 
 ## 📋 *Who I worked for?* 
-### Graphic designer in administrativ position 
+### Graphic designer in administrative position 
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
 * 2014-2014 : Ministère de l'écologie et du développement durable - Dréal Poitou-Charentes - Poitiers (86) - France
 * 2013-2014 : Pharmacie des Halles - Couhé (86) - France
@@ -22,7 +67,14 @@
 * 2001-2004 : KAMI (LVMH : Kenzo, C. Lacroix, Vuitton, Céline, Givenchy) - Montbazon (37) & Paris (75) - France
 * 1995-2000 : C. Mendès (PPR : Yves Saint Laurent, C. Lacroix, C. Montana) - Tours (37) - France
 
-## 📫 How to reach me
+### More achieved projects :
+* Illustrated books
+* Stationary
+* Commercial showcases
+* Posters, logotypes...
+* ...
+
+## 📫 How to reach me?
 
 <!--
 - 👋 Hi, I’m @s-manguy
