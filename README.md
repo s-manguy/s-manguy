@@ -1,7 +1,18 @@
 # 👋 Hi, I'm **Sandrine MANGUY**
 
 ## 🔭 *Who am I?* 
-I am a **UXdesigner** and a **Webdeveloper**.  
+I am a **UXdesigner** and a **Webdeveloper**. 
+
+### 🌱 What am I doing now ?
+I’m currently learning PHP and working on projects to get a professional level.  
+I 'm close to be ready to look for a new job as a web developer.
+
+### 👀 What am I interested in?
+* learning foreign languages with duolingo, 
+* reading books, watching series, 
+* walking, drawing, taking photos, 
+* visiting exhibitions, 
+* visiting friends, singing with friends...
 
 ### Which are my soft skills ?
 * adaptability & agility
@@ -48,6 +59,8 @@ I am a **UXdesigner** and a **Webdeveloper**.
 * Softwares: Microsoft Office, Libre Office, PDFSam
 * Foreign languages : English (C1), Italian (B2), Spanish
 
+## Education
+*
 ## 📋 *Who I worked for?* 
 ### Graphic designer in administrative position 
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
