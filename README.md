@@ -59,7 +59,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * CMS: Wordpress & elementor
 
 
-## 👓*Do you want to have a look at my educational projects ?*
+## 👓*Would you like to have a look at my educational projects ?*
 **[Github](https://github.com/s-manguy/projects)** Portfolio  
 **[freeCodeCamp](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)** Portfolio  
 **[Codepen](https://codepen.io/s-manguy)** Portfolio  
