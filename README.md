@@ -77,7 +77,7 @@ I 'm close to be ready to look for a new job as a web developer.
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
 2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
 
-### Back-End
+#### Back-End
 *coming soon :* freeCodeCamp APIs and Microservices Certification   
 2021-2021 : OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
 2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
