@@ -16,7 +16,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * drawing, taking photos, visiting exhibitions, 
 * visiting friends, singing with friends...
 
-### What are my soft skills ?
+### 💬 What are my soft skills ?
 * adaptability & agility
 * autonomy & decision making
 * diplomacy & pedagogy
@@ -24,14 +24,16 @@ I 'm close to be ready to look for a new job as a web developer.
 * organization and rigor
 * collaborative work
 
-### What are my hard skills?
+### ✨ What are my hard skills?
 #### Transversal skills:
 * Project management and UX mapping, Technical specifications, Technical documentation
 * Update knowledges
 * Tutoring/teaching trainees, apprentices, students, colleagues and suppliers' employees in France & foreign countries
 * Known sectors: administration, education, luxury industry, performing arts, textile, tourism & hotel, trade
-* Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey
-* Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians... 
+* Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey  
+ 🇫🇷 🇬🇷 🇨🇳 🇮🇹 🇵🇹 🇹🇷
+* Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians...  
+  🇺🇸 🇧🇩 🇮🇳 🇱🇹 🇲🇬 🇲🇺 🇲🇦 🇵🇰 🇵🇪 🇷🇪 🇷🇴 🇹🇳
 * Softwares: Microsoft Office, Libre Office, PDFSam
 * Foreign languages : English (C1), Italian (B2), Spanish
  
@@ -57,13 +59,13 @@ I 'm close to be ready to look for a new job as a web developer.
 * CMS: Wordpress & elementor
 
 
-## *Do you want to have a look at my educational projects ?*
+## 👓*Do you want to have a look at my educational projects ?*
 **[Github](https://github.com/s-manguy/projects)** Portfolio  
 **[freeCodeCamp](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)** Portfolio  
 **[Codepen](https://codepen.io/s-manguy)** Portfolio  
 
 
-## *What are my Education & degrees?*
+## 🎓*What are my Education & degrees?*
 ### UXdesigner, webdesigner
 2019-2020: OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
 2000-2001: CFAO-DAO-PAO  (Lestra systèmes & Adobe)  
