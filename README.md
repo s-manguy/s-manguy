@@ -26,9 +26,7 @@ I 'm close to be ready to look for a new job as a web developer.
 
 ### What are my hard skills?
 #### Transversal skills:
-* Technical specifications
-* Technical documentation
-* Project management and UX mapping
+* Project management and UX mapping, Technical specifications, Technical documentation
 * Update knowledges
 * Tutoring/teaching trainees, apprentices, students, colleagues and suppliers' employees in France & foreign countries
 * Known sectors: administration, education, luxury industry, performing arts, textile, tourism & hotel, trade
@@ -45,40 +43,44 @@ I 'm close to be ready to look for a new job as a web developer.
 
 #### Development:
 * HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap, JavaScript (+ jQuery, d3, React, Redux, Vue), *PHP (+ Symfony)*
-* MVC, POO, SOLID & Design Patterns
-* Git & Github
 * Code from Mock-up
-* Responsive Web Design
+* Responsive Web Design & Accessibility
 * SEO
-* Accessibility
 * Data vizualisation
+* MVC, OOP, SOLID & Design Patterns
 * API Rest
-* Node.js, Express & MongoDB
-* MAMP & phpMyAdmin
-* MySql Database: SQL Power Architect, SQuirrel SQL
+* NoSql database: Node.js, Express & MongoDB
+* MySql Database (MySql & PostgreSql): SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
 * BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai
 * DDD & UML
-* EDI: Visual Studio Code
+* Git & Github, Visual Studio Code
 * CMS: Wordpress & elementor
 
 
-## *Education & degrees*
-### UX-Web Designer / Designer web-UX
-2020-2020 : OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
-2000-2001 : CFAO-DAO-PAO  
-1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)    
-1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...  
+## *Do you want to have a look at my educational projects ?*
+**[Github](https://github.com/s-manguy/projects)** Portfolio  
+**[freeCodeCamp](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)** Portfolio  
+**[Codepen](https://codepen.io/s-manguy)** Portfolio  
 
-### Web Developer / Développeur web
+
+## *What are my Education & degrees?*
+### UXdesigner, webdesigner
+2019-2020: OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
+2000-2001: CFAO-DAO-PAO  (Lestra systèmes & Adobe)
+2000-2000: Certificate in English - Saint Giles School - London (UK)    
+1994-1996: **Designer** Diploma, level III - 5 (Bac+2)    
+1991-1994: **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...  
+
+### Webdeveloper
 #### Front-End
 2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications [more information](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
-2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
+2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
 
 ### Back-End
 *coming soon :* freeCodeCamp APIs and Microservices Certification   
 2021-2021 : OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
-2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
+2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
 
 
 ## 📋 *Who I worked for?* 
