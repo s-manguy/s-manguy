@@ -10,11 +10,11 @@ I 'm close to be ready to look for a new job as a web developer.
 ### 👀 What am I interested in?
 * learning foreign languages with duolingo, 
 * reading books, watching series, 
-* walking, drawing, taking photos, 
-* visiting exhibitions, 
+* walking,  
+* drawing, taking photos, visiting exhibitions, 
 * visiting friends, singing with friends...
 
-### Which are my soft skills ?
+### What are my soft skills ?
 * adaptability & agility
 * autonomy & decision making
 * diplomacy & pedagogy
@@ -22,14 +22,23 @@ I 'm close to be ready to look for a new job as a web developer.
 * organization and rigor
 * collaborative work
 
-
-### Which are my hard skills?
+### What are my hard skills?
+#### Transversal skills:
+* Technical specifications
+* Technical documentation
+* Project management and UX mapping
+* Update knowledges
+* Tutoring/teaching trainees, apprentices, students, colleagues and suppliers' employees in France & foreign countries
+* Known sectors: administration, education, luxury industry, performing arts, textile, tourism & hotel, trade
+* Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey
+* Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians... 
+* Softwares: Microsoft Office, Libre Office, PDFSam
+* Foreign languages : English (C1), Italian (B2), Spanish
+ 
 #### Uxdesign:
 * Design Thinking, UX Design, Atomic Design, Material Design
-* Design apps
-* Illustration
-* Audit
-* Analyze data and take decisions
+* Design apps, Illustration
+* Audit, Analyze data and take decisions
 * Softwares: Figma, Adobe CC (XD, Photoshop, Illustrator, Indesign), The Gimp, Inkscape, Scribus
 
 #### Development:
@@ -50,17 +59,26 @@ I 'm close to be ready to look for a new job as a web developer.
 * EDI: Visual Studio Code
 * CMS: Wordpress & elementor
 
-#### Transversal skills:
-* Technical specifications
-* Technical documentation
-* Project management and UX mapping
-* Update knowledges
-* Teaching apprentices, students, colleagues in France & foreign countries
-* Softwares: Microsoft Office, Libre Office, PDFSam
-* Foreign languages : English (C1), Italian (B2), Spanish
 
-## Education
-*
+## *Education & degrees*
+### UX-Web Designer / Designer web-UX
+2020-2020 : OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
+2000-2001 : CFAO-DAO-PAO  
+1994-1996 : **Designer** Diploma, level III - 5 (Bac+2)    
+1991-1994 : **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...  
+
+### Web Developer / Développeur web
+#### Front-End
+2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications [more information](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
+2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
+2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
+
+### Back-End
+*coming soon :* freeCodeCamp APIs and Microservices Certification   
+2021-2021 : OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
+2020-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
+
+
 ## 📋 *Who I worked for?* 
 ### Graphic designer in administrative position 
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
@@ -86,6 +104,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * Commercial showcases
 * Posters, logotypes...
 * ...
+
 
 ## 📫 How to reach me?
 
