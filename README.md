@@ -85,7 +85,7 @@ I 'm close to be ready to look for a new job as a web developer.
 2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
 
 
-## 📋 *Who I worked for?* 
+## 📋 *Who did I work for?* 
 ### Graphic designer in administrative position 
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
 * 2014-2014 : Ministère de l'écologie et du développement durable - Dréal Poitou-Charentes - Poitiers (86) - France
