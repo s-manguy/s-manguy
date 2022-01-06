@@ -66,7 +66,7 @@ I 'm close to be ready to look for a new job as a web developer.
 ## *What are my Education & degrees?*
 ### UXdesigner, webdesigner
 2019-2020: OpenCLassrooms **UX Designer** Certifications, level I - 7 (Bac+5) [more information](https://github.com/s-manguy/diploma/tree/main/UX-DESIGN#readme)     
-2000-2001: CFAO-DAO-PAO  (Lestra systèmes & Adobe)
+2000-2001: CFAO-DAO-PAO  (Lestra systèmes & Adobe)  
 2000-2000: Certificate in English - Saint Giles School - London (UK)    
 1994-1996: **Designer** Diploma, level III - 5 (Bac+2)    
 1991-1994: **Baccalauréat Arts Appliqués à l'industrie** Diploma, level IV - 4 (Bac) : architecture, design, illustration, fashion design / mode & textile, photography, video...  
