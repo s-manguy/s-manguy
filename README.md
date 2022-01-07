@@ -11,10 +11,10 @@ I 'm close to be ready to look for a new job as a web developer.
 
 ### 👀 What am I interested in?
 * learning foreign languages with duolingo, 
-* reading books, watching series, 
+* reading novels in French and foreign languages, watching series, 
 * walking,  
-* drawing, taking photos, visiting exhibitions, 
-* visiting friends, singing with friends...
+* drawing (urban sketching), taking photos, visiting exhibitions, 
+* visiting friends, singing with them...
 
 ### 💬 What are my soft skills ?
 * adaptability & agility
@@ -31,9 +31,9 @@ I 'm close to be ready to look for a new job as a web developer.
 * Tutoring/teaching trainees, apprentices, students, colleagues and suppliers' employees in France & foreign countries
 * Known sectors: administration, education, luxury industry, performing arts, textile, tourism & hotel, trade
 * Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey  
- 🇫🇷 🇬🇷 🇨🇳 🇮🇹 🇵🇹 🇹🇷
+ <!--🇫🇷 🇬🇷 🇨🇳 🇮🇹 🇵🇹 🇹🇷 -->
 * Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians...  
-  🇺🇸 🇧🇩 🇮🇳 🇱🇹 🇲🇬 🇲🇺 🇲🇦 🇵🇰 🇵🇪 🇷🇪 🇷🇴 🇹🇳
+ <!-- 🇺🇸 🇧🇩 🇮🇳 🇱🇹 🇲🇬 🇲🇺 🇲🇦 🇵🇰 🇵🇪 🇷🇪 🇷🇴 🇹🇳 -->
 * Softwares: Microsoft Office, Libre Office, PDFSam
 * Foreign languages : English (C1), Italian (B2), Spanish
  
@@ -77,12 +77,12 @@ I 'm close to be ready to look for a new job as a web developer.
 #### Front-End
 2021-2021 : freeCodeCamp **RWD, JavaScript algorythms and Data Structures, Front-End Libraries & Data Visualization** Certifications [more information](https://www.freecodecamp.org/fcc3ab085a4-3e2d-4160-a445-50914111cc0d)  
 2020-2020 : OpenClassrooms **Front-end aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/tree/main/FRONT-END#readme)  
-2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
+2019-2020 : OpenClassooms **web developper** Certifications, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md) 
 
 #### Back-End
 *coming soon :* freeCodeCamp APIs and Microservices Certification   
 2021-2021 : OpenClassooms **PHP & Symfony aps** Certifications, level II - 6 (Bac+4) [more information](https://github.com/s-manguy/diploma/blob/main/PHP/README.md)      
-2019-2020 : OpenClassooms **web developper** Certification, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
+2019-2020 : OpenClassooms **web developper** Certifications, level III - 5 (Bac+2) [more information](https://github.com/s-manguy/diploma/blob/main/WEB-DEVELOPPER#README.md)  
 
 
 ## 📋 *Who did I work for?* 
