@@ -93,15 +93,15 @@ I 'm close to be ready to look for a new job as a web developer.
 * 2017-2018 : Ministère de la transition écologique et solidaire - Dréal N.-A. et DDCS - Poitiers (86) - France
 * 2014-2014 : Ministère de l'écologie et du développement durable - Dréal Poitou-Charentes - Poitiers (86) - France
 * 2013-2014 : Pharmacie des Halles - Couhé (86) - France
-* 2012-2012 : CIORTF
-* 2011-2011 : OTIR
+* 2012-2012 : CI ORTF (Comité Interentreprises des Organismes de Radio Télévision Français)
+* 2011-2011 : OTIR (Office de Tourisme Intercommunal du Ruffecois)
 
-### Designer, webdesigner, arts & craft teacher (management position)
+### Designer, webdesigner, arts & craft teacher (executive position)
 * 2009-2014 : Librairie des halles - Couhé (86) - France
 * 2010-2011 : CFA - Saint Benoît (86) - France
 * 2007-2009 : AsBackstage - Tain l'Hermitage (26) - Tournon (07) - France
 
-### Techdesigner (management position)
+### Techdesigner (executive position)
 * 2015-2016 : Rugbyteam (Oliphil) - Boulazac (24) & Saint Gaudens (31)- France
 * 2004-2007 : Alain Manoukian & BCBG - Mercurol (26) - France
 * 2001-2004 : KAMI (LVMH : Kenzo & C. Lacroix as full employee, Vuitton, Céline & Givenchy as consultant) - Montbazon (37) & Paris (75) - France
