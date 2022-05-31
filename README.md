@@ -29,7 +29,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * Project management and UX mapping, Technical specifications, Technical documentation
 * Update knowledges
 * Tutoring/teaching trainees, apprentices, students, colleagues and suppliers' employees in France & foreign countries
-* Known sectors: administration, education, luxury industry, performing arts, textile, tourism & hotel, trade
+* Known sectors: administration, education, luxury industry, performing arts, publishing, textile, tourism & hotel, trade
 * Places where I worked: France, Greece, HongKong and China, Italy, Portugal, Turkey  
  <!--🇫🇷 🇬🇷 🇨🇳 🇮🇹 🇵🇹 🇹🇷 -->
 * Other foreigners I worked with: Americans, Bangladeshis, Indians, Lithuanians, Malagazies, Mauritians, Morrocans, Pakistanis, Peruvians, Romanians, Tunisians...  
@@ -40,20 +40,23 @@ I 'm close to be ready to look for a new job as a web developer.
 #### Uxdesign:
 * Design Thinking, UX Design, Atomic Design, Material Design
 * Design apps, Illustration
+* Indication of the skeleton/architecture, the reading and focus order, the state of the step (static, interactiv or change focus), the role, the behavior, the accessibility name and State/property for every steps.
 * Audit, Analyze data and take decisions
 * Softwares: Figma, Adobe CC (XD, Photoshop, Illustrator, Indesign), The Gimp, Inkscape, Scribus
 
 #### Development:
-* HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap, JavaScript (+ jQuery, d3, React, Redux, Vue), *PHP (+ Symfony)*
+* HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap
+* JavaScript (+ jQuery, d3, React, Redux, Vue) 
+* PHP (+ Symfony)
 * Code from Mock-up
 * Responsive Web Design & Accessibility
 * SEO
 * Data vizualisation
 * MVC, OOP, SOLID & Design Patterns
-* API Rest
-* NoSql database: Node.js, Express & MongoDB
-* MySql Database (MySql & PostgreSql): SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
-* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai
+* API Rest: Symfony & API Platform, Node.js & Express
+* NoSql database: MongoDB
+* MySql Database (MySql, SQL & PostgreSql): SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
+* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
 * DDD & UML
 * Git & Github, Visual Studio Code
 * CMS: Wordpress & elementor
@@ -112,7 +115,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * ...
 
 
-## 📫 How to reach me?
+## 📫 How to contact me?
 
 <!--
 - 👋 Hi, I’m @s-manguy
