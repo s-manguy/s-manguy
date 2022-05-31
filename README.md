@@ -104,7 +104,7 @@ I 'm close to be ready to look for a new job as a web developer.
 ### Techdesigner (management position)
 * 2015-2016 : Rugbyteam (Oliphil) - Boulazac (24) & Saint Gaudens (31)- France
 * 2004-2007 : Alain Manoukian & BCBG - Mercurol (26) - France
-* 2001-2004 : KAMI (LVMH : Kenzo, C. Lacroix, Vuitton, Céline, Givenchy) - Montbazon (37) & Paris (75) - France
+* 2001-2004 : KAMI (LVMH : Kenzo & C. Lacroix as full employee, Vuitton, Céline & Givenchy as consultant) - Montbazon (37) & Paris (75) - France
 * 1995-2000 : C. Mendès (PPR : Yves Saint Laurent, C. Lacroix, C. Montana) - Tours (37) - France
 
 ### More achieved projects :
