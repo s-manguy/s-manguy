@@ -47,19 +47,19 @@ I 'm close to be ready to look for a new job as a web developer.
 #### Development:
 * HTML5 (+ markdown), CSS3 (+ Sass), Bootstrap
 * JavaScript (+ jQuery, d3, React, Redux, Vue) 
-* PHP (+ Symfony)
+* PHP (+ Symfony, API Platform)
 * Code from Mock-up
 * Responsive Web Design & Accessibility
 * SEO
 * Data vizualisation
 * MVC, OOP, SOLID & Design Patterns
-* API Rest: Symfony & API Platform, Node.js & Express
+* API Rest: Symfony & API Platform, Node.js & Express, postman
 * NoSql database: MongoDB
 * MySql Database (MySql, SQL & PostgreSql): SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
-* BDD: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
+* Testing: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
 * DDD & UML
 * Git & Github, Visual Studio Code
-* CMS: Wordpress & elementor
+* CMS: Wordpress & Elementor
 
 
 ## 👓*Would you like to have a look at my educational projects ?*
