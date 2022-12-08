@@ -116,7 +116,7 @@ I 'm close to be ready to look for a new job as a web developer.
 
 
 ## 📫 How to contact me?
-
+[Contact me](https://sandrinemanguy.com/#contact)
 <!--
 - 👋 Hi, I’m @s-manguy
 - 👀 I’m interested in design, art, reading books, drawing, walking...
