@@ -2,6 +2,9 @@ Version anglaise ci-dessous : *à la recherche de la **[version française](http
 
 # 👋 Hi, I'm **Sandrine MANGUY**
 
+[Contact me](https://sandrinemanguy.com/#contact)
+
+
 ## 🔭 *Who am I?* 
 I am a **UXdesigner** and a **Webdeveloper**. 
 
