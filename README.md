@@ -6,7 +6,7 @@ Version anglaise ci-dessous : *à la recherche de la **[version française](http
 I am a **UXdesigner** and a **Webdeveloper**. 
 
 ### 🌱 What am I doing now ?
-I’m currently learning PHP and working on projects to get a professional level.  
+I’m currently working on my portfolio website and blog.  
 I 'm close to be ready to look for a new job as a web developer.
 
 ### 👀 What am I interested in?
