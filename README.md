@@ -1,4 +1,4 @@
-VERSION ANGLAISE CI-DESSOUS : *À LA RECHERCHER DE LA **[VERSION FRAN�AISE](https://github.com/s-manguy/diploma/blob/main/README.md)** ?*
+VERSION ANGLAISE CI-DESSOUS : *À LA RECHERCHER DE LA **[VERSION FRANCAISE](https://github.com/s-manguy/diploma/blob/main/README.md)** ?*
 
 # 👋 Hi, I'm **Sandrine MANGUY**
 
