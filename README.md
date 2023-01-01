@@ -2,7 +2,7 @@ VERSION ANGLAISE CI-DESSOUS : *À LA RECHERCHER DE LA **[VERSION FRANCAISE](http
 
 # 👋 Hi, I'm **Sandrine MANGUY**, a French webdesigner and web developer | Nouvelle-Aquitaine
 
-[Contact me](https://sandrinemanguy.com/#contact)
+[CONTACT ME](https://sandrinemanguy.com/en/web-developer#contact)
 
 
 ## 🔭 *Who am I?* 
@@ -120,7 +120,7 @@ I 'm close to be ready to look for a new job as a web developer.
 
 
 ## 📫 How to contact me?
-[Contact me](https://sandrinemanguy.com/#contact)
+[CONTACT ME](https://sandrinemanguy.com/en/web-developer#contact)
 <!--
 - 👋 Hi, I’m @s-manguy
 - 👀 I’m interested in design, art, reading books, drawing, walking...
