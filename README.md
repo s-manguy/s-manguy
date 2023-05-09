@@ -1,4 +1,4 @@
-VERSION ANGLAISE CI-DESSOUS : *À LA RECHERCHER DE LA **[VERSION FRANCAISE](https://github.com/s-manguy/diploma/blob/main/README.md)** ?*
+VERSION ANGLAISE CI-DESSOUS : *À LA RECHERCHE DE LA **[VERSION FRANCAISE](https://github.com/s-manguy/diploma/blob/main/README.md)** ?*
 
 # 👋 Hi, I'm **Sandrine MANGUY**, a French webdesigner and web developer | Nouvelle-Aquitaine
 
