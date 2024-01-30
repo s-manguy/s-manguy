@@ -56,7 +56,7 @@ I 'm close to be ready to look for a new job as a web developer.
 * SEO
 * Data vizualisation
 * MVC, OOP, SOLID & Design Patterns
-* API Rest: Symfony & API Platform, Node.js & Express, postman
+* API Rest: Symfony & API Platform, Node.js & Express (mongoose, prisma), postman
 * NoSql database: MongoDB
 * MySql Database (MySql, SQL & PostgreSql): SQL Power Architect, SQuirrel SQL, MAMP & phpMyAdmin
 * Testing: Jest, DOM Testing Library & React Testing Library, Nightwatch, Mock Service Worker, Chai, PHPUnit
